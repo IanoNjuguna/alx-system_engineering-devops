@@ -13,3 +13,5 @@ This directory contains my work for 0x00. Shell, Basics.
 2. [A script that changes the working directory to the user's home directory](0x00-shell_basics/2-bring_me_home)
 
 3. [A script that displays contents of the current directory in a long format](0x00-shell_basics/3-listfiles)
+
+4. [A script that displays contents of the current working directory, including hidden, in long format](0x00-shell_basics/4-listmorefiles)
