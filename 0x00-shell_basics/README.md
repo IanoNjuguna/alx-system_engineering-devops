@@ -43,3 +43,5 @@ This directory contains my work for 0x00. Shell, Basics.
 17. A script that creates the directories ```welcome/```, ```welcome/to/```, and ```welcome/to/school``` in the current directory. I was allowed to use ONLY two spaces and lines.
 
 18. A script that lists all the files and directories of the current directory including hidden, separated by commas (103-commas)
+
+19. A magic file that can be used with the command ```file``` to detect ```School``` data files when ```School``` data files always contain the string ```SCHOOL``` at offset 0 (school.mgc)
