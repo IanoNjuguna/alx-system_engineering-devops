@@ -23,3 +23,27 @@ This directory contains my work for 0x00. Shell, Basics.
 7. A script that moves the file ```betty``` from ```/tmp/``` to ```/tmp/my_first_directory``` (7-movethatfile)
 
 8. A script that deletes the file ```betty```. The file is located in the directory ```/tmp/my_first_directory``` (8-firstdelete)
+
+9. A script that deletes the directory ```my_first_directory``` that is in the ```/tmp``` directory (9-firstdirdeletion)
+
+10. A script that changes the working directory to the previous one (10-back)
+
+11. A script that lists all files, including hidden in the current directory, the parent of the working directory and the ```/boot``` directory (in this order), in long format (11-lists)
+
+12. A script that prints the type of the file named ```iamafile```. The file ```iamafile``` will be in the ```/tmp``` directory when the script runs (12-file_type)
+
+13. A symbolic link to /bin/ls, named __ls__. The symbolic link is created in the current working directory (13-symbolic_link)
+
+14. A script that copies all the HTML files from the current working directory to the parent of the working directory, but only those that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. Consider that all HTML files have the extension .html (14-copy_html)
+
+15. A script that moves all files beginning with an uppercase letter to the directory /tmp/u. Assume that the directory /tmp/u will exist when we will run the script (100-lets_move)
+
+16. A script that deletes all files in the current working directory that end with the character ~ (101-clean_emacs)
+
+17. A script that creates the directories ```welcome/```, ```welcome/to/```, and ```welcome/to/school``` in the current directory. I was allowed to use ONLY two spaces and lines.
+
+18. A script that lists all the files and directories of the current directory including hidden, separated by commas (103-commas)
+
+19. A magic file that can be used with the command ```file``` to detect ```School``` data files when ```School``` data files always contain the string ```SCHOOL``` at offset 0 (school.mgc)
+
+If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
