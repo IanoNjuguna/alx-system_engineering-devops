@@ -18,4 +18,6 @@ This directory contains my work for 0x00. Shell, Basics.
 
 5. A script that displays contents of current directory, including hidden in long format with user and group IDs displayed numerically (5-listfilesdigitonly)
 
-6. A script that creates a directory named ```my_first_directory``` in the ```tmp``` directory (6-firstdirectory)
+6. A script that creates a directory named ```my_first_directory``` in the ```/tmp/``` directory (6-firstdirectory)
+
+7. A script that moves the file ```betty``` from ```/tmp/``` to ```/tmp/my_first_directory``` (7-movethatfile)
