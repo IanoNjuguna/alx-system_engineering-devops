@@ -37,3 +37,5 @@ This directory contains my work for 0x00. Shell, Basics.
 14. A script that copies all the HTML files from the current working directory to the parent of the working directory, but only those that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. Consider that all HTML files have the extension .html (14-copy_html)
 
 15. A script that moves all files beginning with an uppercase letter to the directory /tmp/u. Assume that the directory /tmp/u will exist when we will run the script (100-lets_move)
+
+16. A script that deletes all files in the current working directory that end with the character ~ (101-clean_emacs)
