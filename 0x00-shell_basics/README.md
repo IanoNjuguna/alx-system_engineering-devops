@@ -29,3 +29,5 @@ This directory contains my work for 0x00. Shell, Basics.
 10. A script that changes the working directory to the previous one (10-back)
 
 11. A script that lists all files, including hidden in the current directory, the parent of the working directory and the ```/boot``` directory (in this order), in long format (11-lists)
+
+12. A script that prints the type of the file named ```iamafile```. The file ```iamafile``` will be in the ```/tmp``` directory when the script runs (12-file_type)
