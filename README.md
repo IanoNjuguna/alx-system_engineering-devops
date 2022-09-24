@@ -1,6 +1,8 @@
 # alx-system_engineering-devops
 
-## ALX-Africa System Engineering DevOps
+This is is my work for System Engineering DevOps.
+
+## System Engineering DevOps
 
 This repository contains the following directories:
 
