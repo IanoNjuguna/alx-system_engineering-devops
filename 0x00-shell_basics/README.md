@@ -41,3 +41,5 @@ This directory contains my work for 0x00. Shell, Basics.
 16. A script that deletes all files in the current working directory that end with the character ~ (101-clean_emacs)
 
 17. A script that creates the directories ```welcome/```, ```welcome/to/```, and ```welcome/to/school``` in the current directory. I was allowed to use ONLY two spaces and lines.
+
+18. A script that lists all the files and directories of the current directory including hidden, separated by commas (103-commas)
