@@ -25,3 +25,5 @@ This directory contains my work for 0x00. Shell, Basics.
 8. A script that deletes the file ```betty```. The file is located in the directory ```/tmp/my_first_directory``` (8-firstdelete)
 
 9. A script that deletes the directory ```my_first_directory``` that is in the ```/tmp``` directory (9-firstdirdeletion)
+
+10. A script that changes the working directory to the previous one.
