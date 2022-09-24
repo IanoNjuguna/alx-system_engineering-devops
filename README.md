@@ -1,8 +1,10 @@
 # alx-system_engineering-devops
 
+## System Engineering DevOps
+
 This is is my work for System Engineering DevOps.
 
-## System Engineering DevOps
+### Contents
 
 This repository contains the following directories:
 
