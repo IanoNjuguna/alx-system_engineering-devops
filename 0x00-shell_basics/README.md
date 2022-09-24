@@ -15,3 +15,5 @@ This directory contains my work for 0x00. Shell, Basics.
 3. [A script that displays contents of the current directory in a long format](0x00-shell_basics/3-listfiles)
 
 4. [A script that displays contents of the current working directory, including hidden, in long format](0x00-shell_basics/4-listmorefiles)
+
+5. [A script that displays contents of current directory, including hidden in long format with user and group IDs displayed numerically](0x00-shell_basics/5-listfilesdigitonly)
