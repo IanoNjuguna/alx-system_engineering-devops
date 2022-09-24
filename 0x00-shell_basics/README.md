@@ -21,3 +21,5 @@ This directory contains my work for 0x00. Shell, Basics.
 6. A script that creates a directory named ```my_first_directory``` in the ```/tmp/``` directory (6-firstdirectory)
 
 7. A script that moves the file ```betty``` from ```/tmp/``` to ```/tmp/my_first_directory``` (7-movethatfile)
+
+8. A script that deletes the file ```betty```. The file is located in the directory ```/tmp/my_first_directory``` (8-firstdelete)
