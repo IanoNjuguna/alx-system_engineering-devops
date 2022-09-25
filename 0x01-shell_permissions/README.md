@@ -17,4 +17,6 @@ This directory contains my work for 0x01. Shell, Permissions
 
 2. A script that prints all the groups the current user is a part of (2-groups)
 
-3. A script that changes the owner of the file ```hello``` to the user ```betty```
+3. A script that changes the owner of the file ```hello``` to the user ```betty``` (3-new_owner)
+
+4. A script that creates an empty file called ```hello``` (4-empty)
