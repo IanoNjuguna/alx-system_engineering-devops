@@ -20,3 +20,5 @@ This directory contains my work for 0x01. Shell, Permissions
 3. A script that changes the owner of the file ```hello``` to the user ```betty``` (3-new_owner)
 
 4. A script that creates an empty file called ```hello``` (4-empty)
+
+5. A script that adds execute permission to the owner of the file ```hello```. The file is in the working directory (5-execute)
