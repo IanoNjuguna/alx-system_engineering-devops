@@ -16,3 +16,5 @@ This directory contains my work for 0x01. Shell, Permissions
 1. A script that prints the effective username of the current user (1-who_am_i)
 
 2. A script that prints all the groups the current user is a part of (2-groups)
+
+3. A script that changes the owner of the file ```hello``` to the user ```betty```
