@@ -22,3 +22,5 @@ This directory contains my work for 0x01. Shell, Permissions
 4. A script that creates an empty file called ```hello``` (4-empty)
 
 5. A script that adds execute permission to the owner of the file ```hello```. The file is in the working directory (5-execute)
+
+6. A script that adds execute permission to the owner and the group owner, and read permission to other users to the file ```hello```. The file is in the working directory (6-multiple_permissions)
