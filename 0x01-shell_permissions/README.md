@@ -34,3 +34,9 @@ This directory contains my work for 0x01. Shell, Permissions
 10. A script that sets the mode of the file ```hello``` the same as ```olleh```'s (10-mirror_permissions)
 
 11. A script that adds the execute permission to all subdirectories of the curretn directory for the owner, group owner and all other users. Regular files should not be changed (11-directories_permissions)
+
+12. A script that creates a directory called ```my_dir``` with permissions 751 in the working directory (12-directory_permissions)
+
+13. A script that changes the group owner to ```school``` for the file ```hello``` (13-change_group)
+
+14. A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory (100-change_owner_and_group)
