@@ -39,4 +39,6 @@ This directory contains my work for 0x01. Shell, Permissions
 
 13. A script that changes the group owner to ```school``` for the file ```hello``` (13-change_group)
 
-14. A script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory (100-change_owner_and_group)
+14. A script that changes the owner to ```vincent``` and the group owner to ```staff``` for all the files and directories in the working directory (100-change_owner_and_group)
+
+15. A script that changes the owner and the group owner of ```_hello```(a symbolic link) to ```vincent``` and ```staff``` respectively (101-symbolic_link_permissions)
