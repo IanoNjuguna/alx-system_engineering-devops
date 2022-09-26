@@ -27,4 +27,10 @@ This directory contains my work for 0x01. Shell, Permissions
 
 7. A script that adds execution permission to the owner and other users, to the file ```hello``` (7-everybody)
 
-8. A script that gives the other users all the permissions while giving the owner and group none to the file ```hello```
+8. A script that gives the other users all the permissions while giving the owner and group none to the file ```hello``` (8-James_Bond)
+
+9. A script that gives the owner all permissions, the group read and execute permissions and the others write and execute permissions to the file ```hello``` (9-John_Doe)
+
+10. A script that sets the mode of the file ```hello``` the same as ```olleh```'s (10-mirror_permissions)
+
+11. 
