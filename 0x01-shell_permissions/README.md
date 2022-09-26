@@ -24,3 +24,7 @@ This directory contains my work for 0x01. Shell, Permissions
 5. A script that adds execute permission to the owner of the file ```hello```. The file is in the working directory (5-execute)
 
 6. A script that adds execute permission to the owner and the group owner, and read permission to other users to the file ```hello```. The file is in the working directory (6-multiple_permissions)
+
+7. A script that adds execution permission to the owner and other users, to the file ```hello``` (7-everybody)
+
+8. A script that gives the other users all the permissions while giving the owner and group none to the file ```hello```
