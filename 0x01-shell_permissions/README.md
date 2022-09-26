@@ -6,12 +6,7 @@ This directory contains my work for 0x01. Shell, Permissions
 
 ### Contents
 
-0. A script that switches the current user to the user ```betty``` (0-iam_betty)
-
-    The conditions are:
-
-    * To use exactly 8 characters for the command.
-    * Assume that the user ```betty``` will exist when script runs.
+0. A script that switches the current user to the user ```betty``` (0-iam_betty) while using exactly 8 characters for the command.
 
 1. A script that prints the effective username of the current user (1-who_am_i)
 
@@ -42,3 +37,9 @@ This directory contains my work for 0x01. Shell, Permissions
 14. A script that changes the owner to ```vincent``` and the group owner to ```staff``` for all the files and directories in the working directory (100-change_owner_and_group)
 
 15. A script that changes the owner and the group owner of ```_hello```(a symbolic link) to ```vincent``` and ```staff``` respectively (101-symbolic_link_permissions)
+
+16. A script that changes the owner of the file ```hello``` to ```betty``` only if it is owned by the user ```guillaume``` (102-if_only)
+
+17. A script that will play the StarWars IV episode in the terminal (103-Star_Wars)
+
+Incase of any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
