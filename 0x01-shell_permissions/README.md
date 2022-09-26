@@ -33,4 +33,4 @@ This directory contains my work for 0x01. Shell, Permissions
 
 10. A script that sets the mode of the file ```hello``` the same as ```olleh```'s (10-mirror_permissions)
 
-11. 
+11. A script that adds the execute permission to all subdirectories of the curretn directory for the owner, group owner and all other users. Regular files should not be changed (11-directories_permissions)
