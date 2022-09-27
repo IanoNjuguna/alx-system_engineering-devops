@@ -50,42 +50,42 @@ If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
 ### References
 
-[0] 0-current_working_directory.
+[0]: 0-current_working_directory.
 
-[1] 1-listit.
+[1]: 1-listit.
 
-[2] 2-bring_me_home.
+[2]: 2-bring_me_home.
 
-[3] 3-listfiles.
+[3]: 3-listfiles.
 
-[4] 4-listmorefiles.
+[4]: 4-listmorefiles.
 
-[5] 5-listfilesdigitonly.
+[5]: 5-listfilesdigitonly.
 
-[6] 6-firstdirectory.
+[6]: 6-firstdirectory.
 
-[7] 7-movethatfile.
+[7]: 7-movethatfile.
 
-[8] 8-firstdelete.
+[8]: 8-firstdelete.
 
-[9] 9-firstdirdeletion.
+[9]: 9-firstdirdeletion.
 
-[10] 10-back.
+[10]: 10-back.
 
-[11] 11-lists.
+[11]: 11-lists.
 
-[12] 12-file_type.
+[12]: 12-file_type.
 
-[13] 13-symbolic_link.
+[13]: 13-symbolic_link.
 
-[14] 14-copy_html.
+[14]: 14-copy_html.
 
-[15] 100-lets_move.
+[15]: 100-lets_move.
 
-[16] 101-clean_emacs.
+[16]: 101-clean_emacs.
 
-[17] 102-tree.
+[17]: 102-tree.
 
-[18] 103-commas.
+[18]: 103-commas.
 
-[19] school.mgc.
+[19]: school.mgc.

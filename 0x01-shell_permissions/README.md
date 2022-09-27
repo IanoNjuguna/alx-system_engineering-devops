@@ -46,38 +46,38 @@ Incase of any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
 ### References
 
-[0] 0-iam_betty.
+[0]: 0-iam_betty.
 
-[1] 1-who_am_i.
+[1]: 1-who_am_i.
 
-[2] 2-groups.
+[2]: 2-groups.
 
-[3] 3-new_owner.
+[3]: 3-new_owner.
 
-[4] 4-empty.
+[4]: 4-empty.
 
-[5] 5-execute.
+[5]: 5-execute.
 
-[6] 6-multiple_permissions.
+[6]: 6-multiple_permissions.
 
-[7] 7-everybody.
+[7]: 7-everybody.
 
-[8] 8-James_Bond.
+[8]: 8-James_Bond.
 
-[9] 9-John_Doe.
+[9]: 9-John_Doe.
 
-[10] 10-mirror_permissions.
+[10]: 10-mirror_permissions.
 
-[11] 11-directories_permissions.
+[11]: 11-directories_permissions.
 
-[12] 12-directory_permissions.
+[12]: 12-directory_permissions.
 
-[13] 13-change_group.
+[13]: 13-change_group.
 
-[14] 100-change_owner_and_group.
+[14]: 100-change_owner_and_group.
 
-[15] 101-symbolic_link_permissions.
+[15]: 101-symbolic_link_permissions.
 
-[16] 102-if_only.
+[16]: 102-if_only.
 
-[17] 103-Star_Wars.
+[17]: 103-Star_Wars.
