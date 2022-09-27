@@ -44,7 +44,7 @@ This directory contains my work for 0x00. Shell, Basics.
 
 18. A script that lists all the files and directories of the current directory including hidden, separated by commas^[18].
 
-19. A magic file that can be used with the command ```file``` to detect ```School``` data files when ```School``` data files always contain the string ```SCHOOL``` at offset 0^[19].
+19. A magic file that can be used with the command ```file``` to detect ```School``` data files when ```School``` data files always contain the string ```SCHOOL``` at offset 0 ^[19].
 
 If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
