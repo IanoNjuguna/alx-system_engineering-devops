@@ -52,40 +52,40 @@ If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
 [0]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/0-current_working_directory
 
-[1]: 1-listit.
+[1]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/1-listit
 
-[2]: 2-bring_me_home.
+[2]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/2-bring_me_home
 
-[3]: 3-listfiles.
+[3]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/3-listfiles
 
-[4]: 4-listmorefiles.
+[4]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/4-listmorefiles
 
-[5]: 5-listfilesdigitonly.
+[5]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/5-listfilesdigitonly
 
-[6]: 6-firstdirectory.
+[6]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/6-firstdirectory
 
-[7]: 7-movethatfile.
+[7]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/7-movethatfile
 
-[8]: 8-firstdelete.
+[8]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/8-firstdelete
 
-[9]: 9-firstdirdeletion.
+[9]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/9-firstdirdeletion
 
-[10]: 10-back.
+[10]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/10-back
 
-[11]: 11-lists.
+[11]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/11-lists
 
-[12]: 12-file_type.
+[12]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/12-file_type
 
-[13]: 13-symbolic_link.
+[13]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/13-symbolic_link
 
-[14]: 14-copy_html.
+[14]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/14-copy_html
 
-[15]: 100-lets_move.
+[15]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/100-lets_move
 
-[16]: 101-clean_emacs.
+[16]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/101-clean_emacs
 
-[17]: 102-tree.
+[17]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/102-tree
 
-[18]: 103-commas.
+[18]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/103-commas
 
-[19]: school.mgc.
+[19]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/school.mgc
