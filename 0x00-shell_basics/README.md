@@ -48,8 +48,6 @@ This directory contains my work for 0x00. Shell, Basics.
 
 If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
-### References
-
 [0]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/0-current_working_directory
 
 [1]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x00-shell_basics/1-listit
