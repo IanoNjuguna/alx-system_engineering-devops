@@ -44,38 +44,38 @@ This directory contains my work for 0x01. Shell, Permissions
 
 Incase of any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
-[0]: 0-iam_betty.
+[0]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/0-iam_betty
 
-[1]: 1-who_am_i.
+[1]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/1-who_am_i
 
-[2]: 2-groups.
+[2]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/2-groups
 
-[3]: 3-new_owner.
+[3]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/3-new_owner
 
-[4]: 4-empty.
+[4]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/4-empty
 
-[5]: 5-execute.
+[5]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/5-execute
 
-[6]: 6-multiple_permissions.
+[6]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/6-multiple_permissions
 
-[7]: 7-everybody.
+[7]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/7-everybody
 
-[8]: 8-James_Bond.
+[8]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/8-James_Bond
 
-[9]: 9-John_Doe.
+[9]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/9-John_Doe
 
-[10]: 10-mirror_permissions.
+[10]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/10-mirror_permissions
 
-[11]: 11-directories_permissions.
+[11]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/11-directories_permissions
 
-[12]: 12-directory_permissions.
+[12]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/12-directory_permissions
 
-[13]: 13-change_group.
+[13]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/13-change_group
 
-[14]: 100-change_owner_and_group.
+[14]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/100-change_owner_and_group
 
-[15]: 101-symbolic_link_permissions.
+[15]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/101-symbolic_link_permissions
 
-[16]: 102-if_only.
+[16]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/102-if_only
 
-[17]: 103-Star_Wars.
+[17]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x01-shell_permissions/103-Star_Wars
