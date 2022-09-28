@@ -42,38 +42,38 @@ This directory contains my work for 0x03. Shell, init files, variables and expan
 
 17. A shell script that adds the two numbers stored in the environment variables ```WATER``` and ```STIR``` and prints the result. ```WATER``` is in base water. ```STIR``` is in base stir. The result should be in base ```bestchol```^[17].
 
-[0]: 0-alias
+[0]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/0-alias
 
-[1]: 1-hello_you
+[1]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/1-hello_you
 
-[2]: 2-path
+[2]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/2-path
 
-[3]: 3-paths
+[3]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/3-paths
 
-[4]: 4-global_variables
+[4]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/4-global_variables
 
-[5]: 5-local_variables
+[5]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/5-local_variables
 
-[6]: 6-create_local_variable
+[6]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/6-create_local_variable
 
-[7]: 7-create_global_variable
+[7]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/7-create_global_variable
 
-[8]: 8-true_knowledge
+[8]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/8-true_knowledge
 
-[9]: 9-divide_and_rule
+[9]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/9-divide_and_rule
 
-[10]: 10-love_exponent_breath
+[10]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/10-love_exponent_breath
 
-[11]: 11-binary_to_decimal
+[11]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/11-binary_to_decimal
 
-[12]: 12-combinations
+[12]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/12-combinations
 
-[13]: 13-print_float
+[13]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/13-print_float
 
-[14]: 100-decimal_to_hexadecimal
+[14]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/100-decimal_to_hexadecimal
 
-[15]: 101-rot13
+[15]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/101-rot13
 
-[16]: 102-odd
+[16]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/102-odd
 
-[17]: 103-water_and_stir
+[17]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/103-water_and_stir
