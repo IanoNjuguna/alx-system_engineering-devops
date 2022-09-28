@@ -42,6 +42,8 @@ This directory contains my work for 0x03. Shell, init files, variables and expan
 
 17. A shell script that adds the two numbers stored in the environment variables ```WATER``` and ```STIR``` and prints the result. ```WATER``` is in base water. ```STIR``` is in base stir. The result should be in base ```bestchol```^[17].
 
+If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
+
 [0]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/0-alias
 
 [1]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x03-shell_variables_expansions/1-hello_you

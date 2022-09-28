@@ -60,56 +60,58 @@ This directory contains my work for 0x02. Shell, I/O Redirections and filters
 
 26. A script that parses web server logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. Order by number of requests, most active host or IP at the top. I did not use ```grep```, ```egrep```, ```fgrep``` or ```rgrep```^[26].
 
-[0]: 0-hello_world
+If you have any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
-[1]: 1-confused_smiley
+[0]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/0-hello_world
 
-[2]: 2-hellofile
+[1]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/1-confused_smiley
 
-[3]: 3-twofiles
+[2]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/2-hellofile
 
-[4]: 4-lastlines
+[3]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/3-twofiles
 
-[5]: 5-firstlines
+[4]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/4-lastlines
 
-[6]: 6-third_line
+[5]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/5-firstlines
 
-[7]: 7-file
+[6]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/6-third_line
 
-[8]: 8-cwd_state
+[7]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/7-file
 
-[9]: 9-duplicate_last_line
+[8]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/8-cwd_state
 
-[10]: 10-no_more_js
+[9]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/9-duplicate_last_line
 
-[11]: 11-directories
+[10]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/10-no_more_js
 
-[12]: 12-newest_files
+[11]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/11-directories
 
-[13]: 13-unique
+[12]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/12-newest_files
 
-[14]: 14-findthatword
+[13]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/13-unique
 
-[15]: 15-countthatword
+[14]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/14-findthatword
 
-[16]: 16-whatsnext
+[15]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/15-countthatword
 
-[17]: 17-hidethisword
+[16]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/16-whatsnext
 
-[18]: 18-letteronly
+[17]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/17-hidethisword
 
-[19]: 19-AZ
+[18]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/18-letteronly
 
-[20]: 20-hiago
+[19]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/19-AZ
 
-[21]: 21-reverse
+[20]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/20-hiago
 
-[22]: 22-users_and_homes
+[21]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/21-reverse
 
-[23]: 100-empty_casks
+[22]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/22-users_and_homes
 
-[24]: 101-gifs
+[23]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/100-empty_casks
 
-[25]: 102-acrostic
+[24]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/101-gifs
 
-[26]: 103-the_biggest_fan
+[25]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/102-acrostic
+
+[26]: https://github.com/IanoNjuguna/alx-system_engineering-devops/blob/main/0x02-shell_redirections/103-the_biggest_fan
