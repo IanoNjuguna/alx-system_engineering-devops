@@ -44,8 +44,6 @@ This directory contains my work for 0x01. Shell, Permissions
 
 Incase of any questions, [contact me](https://www.linkedin.com/in/ianonjuguna)
 
-### References
-
 [0]: 0-iam_betty.
 
 [1]: 1-who_am_i.
