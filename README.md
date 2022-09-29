@@ -2,7 +2,7 @@
 
 ## System Engineering DevOps
 
-This is is my work for System Engineering DevOps.
+This repository contains scripts I created while in the ALX Africa boot-camp during the System Engineering & DevOps track (Sprint-1).
 
 ### Contents
 
