@@ -1,6 +1,6 @@
-# alx-system_engineering-devops
+	# alx-system_engineering-devops
 
-## System Engineering DevOps
+## System Engineering DevOps (ALX-Africa Bootcamp)
 
 This repository contains scripts I created while in the ALX Africa boot-camp during the System Engineering & DevOps track (Sprint-1).
 
