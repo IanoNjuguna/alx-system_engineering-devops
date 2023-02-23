@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# bash script that displays 1-100, displays Fizz, Buzz and FizzBuzz for multiples of 3, 5 and 3&&5
+
+for num in {1..100}
+do
+if (( num % 3 == 0 && num % 5 == 0 ))
+then
+echo "FizzBuzz"
+elif (( num % 3 == 0 ))
+then 
+echo "Fizz"
+elif (( num % 5 == 0 ))
+then
+echo "Buzz"
+else
+echo "$num"
+fi
+done

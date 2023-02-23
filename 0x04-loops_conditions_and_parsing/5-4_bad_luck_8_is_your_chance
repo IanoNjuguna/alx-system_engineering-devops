@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# a bash script that loops Best School from 1-10, displays bad luck and good luck on 4th and 8th iteration using while loop
+
+count=0
+
+while [ $count -lt 10 ]
+do
+if [ $count -eq 3 ]
+then
+echo "bad luck"
+elif [ $count -eq 7 ]
+then
+echo "good luck"
+else
+echo "Best School"
+fi
+(( count++ ))
+done
